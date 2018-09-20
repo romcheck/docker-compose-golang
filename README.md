@@ -1,1 +1,1 @@
-Docker image with docker-compose, golang and make packages.
+Docker image with docker-compose, golang, git and make packages.
